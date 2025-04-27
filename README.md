@@ -26,7 +26,7 @@ The project uses the "Augmented Alzheimer MRI Dataset" from Kaggle, containing a
 
 - **Dataset Link:** https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
 
-Ensure the directory structure looks like for training (no change needed for testing):
+Ensure the directory structure looks like for training (change the folder names corresponding to the names below):
 
 ```
 data/
