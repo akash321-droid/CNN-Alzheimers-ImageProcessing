@@ -78,7 +78,16 @@ To analyze MRI images:
 ```bash
 python predict.py
 ```
-This automatically processes the 40 images in `data/` (no need to specify an input folder).
+This automatically processes the 40 images in `data/` (no need to specify an input folder). Ensure it looks like this
+```
+data/
+├── img-1
+├── img-2
+├── img-3
+├── img-4
+```
+
+
 
 To generate Grad-CAM visualizations:
 ```bash
